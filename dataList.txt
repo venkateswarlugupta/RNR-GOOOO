@@ -1,11 +1,21 @@
-10
+20
 Delhi Mumbai 10000 2.1666
 Delhi Chennai 12000 2.6666
 Delhi Hyderabad 9000 2.0833
 Delhi Bengaluru 8500 2.3333
+Bhopal Delhi  3500 1.0833
+Mumbai Delhi  10000 2.1666
+Chennai Delhi  12000 2.6666
+Hyderabad Delhi  9000 2.0833
+Bengaluru Delhi  8500 2.3333
 Delhi Bhopal 3500 1.1666
 Delhi Vijayawada 5500 1.6666
 Bengaluru Delhi 7500 1.8333
-Bhopal Hyderabad 2500 1
+Bhopal Hyderabad 2500 1.0000
 Mumbai Hyderabad 6000 1.3333
 Bengaluru Mumbai 4500 1.0833
+Delhi Bengaluru  7500 1.8333
+Hyderabad Bhopal  2500 1.0833
+Hyderabad Mumbai  6000 1.3333
+Mumbai Bengaluru  4500 1.0833
+Amritsar Delhi 6500 1.3333
